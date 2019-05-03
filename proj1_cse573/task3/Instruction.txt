@@ -1,0 +1,5 @@
+Instructions
+1. Please put the whole folder (task3) into your selected directory. 
+2. Open the corresponding python script for cursor detection. e.g. "Project1_cursor_pos.py" is writen for the detection in positive images of task 3.1.
+3. Copy the directory of the upper folder where you put the "task3" folder and paste as the value of "your_dir" variant in the script.
+4. Run it, enjoy!
