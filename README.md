@@ -1,1 +1,1 @@
-# The codes were used for practice only. They were originally written for the assignments of a college class, which is about computer vision and image processing. 
+# The codes were used for practice only. They were originally written for the assignments of a college class.
